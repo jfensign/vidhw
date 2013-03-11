@@ -1,0 +1,3 @@
+<article>
+<p>Vidhya Kamdar was born and raised in Houston, Texas. At age seventeen, after graduating early from high school, she moved to New York to complete a dual major program at The New School. As a person that strives to acquire interdisciplinary knowledge, Vidhya was switching majors to find the most relevant path for her interest as a mathematic fine artist. Currently, she is studying Illustration at Parsons while completing a self-declared major of Mathematical Sciences at Eugene Lang and Cooper Union.</p>
+</article>
